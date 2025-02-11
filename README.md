@@ -1,8 +1,14 @@
-# React + Vite
+# Crypto Convertor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# It is built based on React, JavaScript and Tailwind Css
 
-Currently, two official plugins are available:
+## Steps
+- First enter the number
+- select first currancy
+- select second currency
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Api Calls
+- API data will be stored in array of objects and data will be presented on components as per requirement
+
+  
+![Project Logo](public/web.png)
